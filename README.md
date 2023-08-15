@@ -28,9 +28,14 @@ sudo mv uuidgen-v7 /usr/local/bin/uuidgen-v7
 
 ```shell
 # Generate a single uuid.
-uuidgen-v7
+$ uuidgen-v7
+0189f980-9ef3-767b-a108-9e7c321faa80
 
 # Generate multiple uuids.
 # (number: number of uuids to generate)
-uuidgen-v7 [number]
+$ uuidgen-v7 [number]
+$ uuidgen-v7 3
+0189f981-4b16-776f-9f06-cf920636a410
+0189f981-4b16-7770-8a12-33d7f74ef205
+0189f981-4b16-7771-a035-38586a93d251
 ```
