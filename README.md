@@ -3,6 +3,8 @@
 Simple uuid generator.
 Generates uuid for version 7.
 
+<img width="660" alt="image" src="https://github.com/shu-pf/uuidgen-v7/assets/61904065/def7d811-714b-4474-9147-46677f5ee460">
+
 ## Install
 
 1. Get the binaries from [here](https://github.com/shu-pf/uuidgen-v7/releases). Download the file with the same name as the execution environment.
