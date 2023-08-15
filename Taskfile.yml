@@ -6,7 +6,7 @@ tasks:
       - go run main.go {{.CLI_ARGS}}
   build:
     cmds:
-      - go build -o bin/main main.go
+      - ./scripts/build.sh
   tidy:
     cmds:
       - go mod tidy
